@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLinearLayout</string>
+    <string name="input_nama">Input Nama</string>
+    <string name="input_nim">Input NIM</string>
+    <string name="button">Button</string>
+    <string name="tampil_nama">--Output Nama--</string>
+    <string name="tampil_nim">--Output NIM--</string>
+    <string name="tampil">Tampilkan</string>
+</resources>
